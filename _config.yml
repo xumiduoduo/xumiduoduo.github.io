@@ -20,14 +20,16 @@ repository               : "xumiduoduo/xumiduoduo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "头像.jpeg"
-  name             : "高健硕 Jianshuo Gao"
-  pronouns         : # example: "she/her"  
-  bio              : "北京大学物理学院2023级本科生 Undergraduate student of 2023 from School of Physics, PKU"
-  location         : "北京，中国 Beijing, China"
-  employer         : "北京大学 Peking University"
-  uri              : # URL
-  email            : "2300011355@stu.pku.edu.cn" 
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Diane"
+  bio              : " "
+  location         : "shenzhen, China"
+  employer         : "szzy"
+  email            : " "
+  googlescholar    : "https://scholar.google.com/citations?user=Z8Ydr_AAAAAJ"
+  github           : "xumiduoduo"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
