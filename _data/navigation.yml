@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "主页 Home"
+  - title: "首页 Home"
     url: /
-  - title: "论文 Publications"
-    url: /publications/
-  - title: "讲座 Talks"
-    url: /talks/
-  # - title: "授课 Teaching"
-  #   url: /teaching/
-  - title: "文章 Blog"
-    url: /year-archive/
-  - title: "项目 Portfolio"
-    url: /portfolio/
-  - title: "简历 CV"
-    url: /cv/
+
+  - title: "多多 Duoduo"
+    url: /duoduo/
+
+  - title: "照片 Photos"
+    url: /photos/
+
+  - title: "成长记录 Diary"
+    url: /diary/
+
+  - title: "关于 About"
+    url: /about-duoduo/
