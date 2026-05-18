@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "首页 Home"
+  - title: "首页"
     url: /
 
-  - title: "多多 Duoduo"
-    url: /duoduo/
+  - title: "关于多多"
+    url: /dodo/
 
-  - title: "照片 Photos"
+  - title: "照片"
     url: /photos/
 
-  - title: "成长记录 Diary"
+  - title: "成长记录"
     url: /diary/
 
-  - title: "关于 About"
-    url: /about-duoduo/
+  - title: "关于我"
+    url: /about/
