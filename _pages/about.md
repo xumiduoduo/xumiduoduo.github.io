@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-2026年3月7日 我成为了Diane 珍爱的孩子
+2026年3月7日 我成为了Diane & Rayko珍爱的孩子（Diane认为Rayko的爱晚一些。
 
 一个正在搭建的多多个人主页
 ======
