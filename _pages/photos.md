@@ -5,20 +5,25 @@ layout: single
 author_profile: true
 ---
 
-# 多多的照片
+这里用来存放多多的照片。先放几张测试照片，之后可以慢慢补充更多。
 
-这里用来存放多多的照片。
+## 多多照片墙
 
-之后可以按照时间、地点或者主题来整理。
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 20px;">
 
-## 照片分类
+  <div>
+    <img src="/images/dodo/dodo-01.jpg" alt="多多照片 1" style="width: 100%; border-radius: 12px;">
+    <p style="text-align: center; font-size: 0.9em;">多多照片 1</p>
+  </div>
 
-- 小时候的多多
-- 日常生活
-- 出门玩
-- 睡觉瞬间
-- 可爱表情包
+  <div>
+    <img src="/images/dodo/dodo-02.jpg" alt="多多照片 2" style="width: 100%; border-radius: 12px;">
+    <p style="text-align: center; font-size: 0.9em;">多多照片 2</p>
+  </div>
 
-## 照片墙
+  <div>
+    <img src="/images/dodo/dodo-03.jpg" alt="多多照片 3" style="width: 100%; border-radius: 12px;">
+    <p style="text-align: center; font-size: 0.9em;">多多照片 3</p>
+  </div>
 
-照片之后会放在这里。
+</div>
